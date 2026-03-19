@@ -1,0 +1,5 @@
+fastapi==0.103.2
+uvicorn==0.22.0
+openai-whisper
+torch==1.13.1
+numpy==1.21.6
